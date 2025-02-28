@@ -7,21 +7,27 @@ Este primer proyecto es solo con la finalidad de subir un archivo md y subir a g
 
 1.- Clonar el proyecto
 
+Nota:
+Abre la terminal git BASH y navega hacia la carpeta donde deseas clonar el repositorio, una vez creada la carpeta teclea el siguiente codigo en la terminal.
+
 ```bash
-clone https://github.com/antoniogutim/PRIMER-EJERCICIO
+git clone https://github.com/antoniogutim/PRIMER-EJERCICIO
 ```
 
 2.- Navega al directorio del proyecto
 
-```bash
-  cd PRIMER-EJERCICIO
-```
-3.- Ejecuta el proyecto localmente, teclea en la terminal:
+Nota:
+Estando en la raiz (nombre de la carpeta donde colnaste el repositorio) teclea lo siguiente
 
 ```bash
-  index.html
+  cd primer-ejercicio
 ```
-4.- Verlo en accion en la WEB :
+3.- Ejecuta el proyecto localmente, teclea en la terminal de git BASH:
+
+```bash
+  start index.html
+```
+4.- Verlo en accion mi repositorio en la WEB :
 
   https://antoniogutim.github.io/PRIMER-EJERCICIO/
   
