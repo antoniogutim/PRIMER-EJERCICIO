@@ -31,7 +31,7 @@ Estando en la raiz (nombre de la carpeta donde colnaste el repositorio) teclea l
 
   https://antoniogutim.github.io/PRIMER-EJERCICIO/
   
-## Authors
+## Autor
 
 - Creado por [Antonio Gutiérrez](https://github.com/antoniogutim) si te gusto no dudes en contactarme.
 
